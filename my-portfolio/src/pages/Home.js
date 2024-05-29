@@ -39,7 +39,7 @@ const Home = () => {
             <h3 className="text-xl font-bold mb-2">Beca4</h3>
             <p className="text-gray-700 mb-4">A university related project</p>
             <a
-              href="https://project2.example.com"
+              href="https://beca4.netlify.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:text-blue-700"
